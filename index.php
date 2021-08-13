@@ -91,10 +91,11 @@ function bondJSON(data){
 
 	//this creates a map of the JSON on our page
 	
+	/*
 	let myData = JSON.stringify(data,null,4);
 	myData = "<pre>" + myData + "</pre>"
 	$("#output").html(myData);
-	
+	*/
 }
 
 function bondTemplate(game){
